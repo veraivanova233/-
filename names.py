@@ -19,3 +19,5 @@ for i in range(len(names_sums)):
     res += names_sums[i] * (i+1)
 print(res)
 f.close()
+
+# Ответ: 871895359
